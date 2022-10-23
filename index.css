@@ -1,1 +1,116 @@
 /* Your CSS goes here */
+/* Your CSS goes here */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+    color: #000000;
+    padding-bottom: 35px;
+}
+.head{
+    justify-content: space-between;
+    display: flex;
+    padding: 18px;
+    flex-wrap: wrap;
+    background-color:#386175;
+    color: white;
+    position: relative;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 0%; 
+}
+.ahmed{
+    background-color: #fb8702fa;
+    color: white;
+    text-align: center;
+    padding:50px;
+}
+.ahmed h2{
+    padding: 20px;
+}
+.mah{
+    margin: 30px;
+    background-color: #C4C4C4;
+    font-size: 13px;
+    padding: 50px;
+
+}
+.mah h2{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20PX;
+}
+.one{
+    text-align: center;
+    color: #000000;
+    justify-content: center;
+    background-color: #fb8702fa;
+    padding: 20px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    align-items: center;
+}
+.hooyo2{
+    flex-basis: 45%;
+}
+.hooyo1 h2{
+    text-align: center;
+}
+.container2{
+    width: 90%;
+    margin: auto;
+    padding-left: 0px;
+    margin-left: 0%;
+}
+.row1{
+    display: flex;
+    align-items: center;
+}
+.hooyo1{
+    flex-basis: 45%;
+}
+.hooyo2 h1{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.footer{
+    justify-content: space-between;
+    display: flex;
+    padding: 18px;
+    flex-wrap: wrap;
+    background-color:#386175;
+    color: white;
+}
+ section ul{
+    list-style-type: none;
+    display: flex;
+}
+section ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 0%; 
+}
